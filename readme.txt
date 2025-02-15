@@ -27,3 +27,5 @@ git remote set-url origin  https://github.com/tanushcpm/hello-world
 git push origin master
 git  remote -v
 
+git pull origin master
+
