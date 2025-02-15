@@ -18,3 +18,7 @@ git diff
 github.com   username tanushcpm 
 check username on git  hub  -
 git config –global user.username   //tanushcpm
+
+
+git remote add origin https://github.com/tanushcpm/hello-world  or 
+git remote set-url origin  https://github.com/tanushcpm/hello-world
