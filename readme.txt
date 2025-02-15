@@ -38,3 +38,17 @@ git remote -v
 
 git remote add upstream https://github.com/jlord/patchwork.git
 
+
+branch - 
+git status  // will show you are on gh-pages
+
+
+git branch add-tanushcpm
+git checkout <add-tanushcpm>
+git branch  //list the branches
+git status
+
+git add <contributors/FILENAME>
+git commit -m "message"
+git push origin add-tanushcpm
+
